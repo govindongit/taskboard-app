@@ -1,0 +1,3 @@
+@tailwind base;       /* Reset browser default styles */
+@tailwind components; /* Enables @apply for component styles */
+@tailwind utilities;  /* All utility classes: flex, p-4, text-lg, bg-gray-900, etc. */
