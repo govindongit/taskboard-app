@@ -1,4 +1,4 @@
-const { gql } = require("@apollo/server");
+const { gql } = require("graphql-tag");
 
 // gql is a template literal tag that parses this string as a GraphQL schema
 // This is your API contract: "here is what data exists and what operations are allowed"
